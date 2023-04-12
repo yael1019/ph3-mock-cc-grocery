@@ -1,4 +1,4 @@
-# Phase 3 Mock Code Challenge - Squirrels
+# Phase 3 Mock Code Challenge - Grocery
 
 For this challenge, we'll be working with a domain similar to a grocery store.
 
