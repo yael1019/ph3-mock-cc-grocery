@@ -61,6 +61,7 @@ class FoodItem:
 
     def increase_price(self, increase):
         self.save(increase)
+        self.price += increase
         # sql = """
         #     UPDATE food_items
         #     SET price = ?
